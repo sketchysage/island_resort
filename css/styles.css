@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+  color: navy;
+}
+
+body{
+  text-rendering: optimizeSpeed;
+  background-color: yellow;
+  text-emphasis-color: yellow;
+  text-align:justify;
+}
+
+p{
+  text-align: center;
+  background-color: inherit;
+}
